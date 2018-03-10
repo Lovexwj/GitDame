@@ -10,8 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
            //张露
-           //小胡
-           //双薪
-           //大哥
+
     }
 }
